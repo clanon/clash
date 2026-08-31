@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,clanon.top
 DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
